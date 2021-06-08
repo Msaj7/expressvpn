@@ -1,0 +1,21 @@
+[{
+ "name": "holand",
+ "textname": "holand",
+ "servers": [{
+  "ip": "",
+  "user": "sajad",
+  "pass": "2021"
+ }]
+}, {
+ "name": "sweden",
+ "textname": "sweden",
+ "servers": [{
+  "ip": "",
+  "user": "",
+  "pass": ""
+ }]
+}, {
+ "app_id": "ca-app-pub-3940256099942544~3347511713",
+ "banner": "ca-app-pub-3940256099942544/6300978111",
+ "interstitial": "ca-app-pub-3940256099942544/1033173712"
+}]
